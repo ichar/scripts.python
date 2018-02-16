@@ -1,0 +1,1 @@
+python patch.py bankdb.config %1

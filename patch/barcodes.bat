@@ -1,0 +1,1 @@
+python patch.py barcodes.config %1

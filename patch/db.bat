@@ -1,0 +1,1 @@
+python patch.py db.config %1

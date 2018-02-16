@@ -1,0 +1,1 @@
+python patch.py scripts.config %1

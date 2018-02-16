@@ -1,0 +1,1 @@
+python patch.py OutReceiver.config %1

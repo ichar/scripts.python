@@ -1,0 +1,1 @@
+python eraser.py config.txt %1

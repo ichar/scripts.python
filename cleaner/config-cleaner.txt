@@ -1,0 +1,13 @@
+#
+reports-container :: services-container
+reports-dropdown  :: services-dropdown
+reports           :: services
+report:           :: service:
+#
+servicegroup-container :: service:group-container
+servicekp              :: service:kp
+servicebranch-list     :: service:branch-list
+servicecards           :: service:cards
+#
+suppressed :: \.min.js:jquery.*\.*:verge.*\.*:bootstrap.*\.*:img:translations:__pycache__:\.idea
+

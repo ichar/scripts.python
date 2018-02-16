@@ -1,0 +1,1 @@
+python patch.py logger.config %1

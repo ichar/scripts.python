@@ -1,0 +1,1 @@
+python patch.py x.config %1

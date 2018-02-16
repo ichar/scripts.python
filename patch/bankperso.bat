@@ -1,0 +1,1 @@
+python patch.py bankperso.config %1
